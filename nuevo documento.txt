@@ -1,3 +1,4 @@
 
-Hoy es miercoles 17 de septiembre
-practico conflictos en git
+Hoy es miercoles 17 de septiembre 
+practico conflictos con git
+
